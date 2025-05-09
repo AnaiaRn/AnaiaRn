@@ -15,5 +15,5 @@ I love building clean, responsive, and user-friendly interfaces using tools like
 ---
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I’m+Anaïa+Randrianantenaina;Frontend+Developer;UI/UX+Designer;WordPress+Enthusiast&center=true&width=500&height=50)
 
-![Matrix code rain](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
+![UI Showcase](./assets/ui-animation.gif)
 
