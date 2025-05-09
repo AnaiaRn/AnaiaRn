@@ -13,3 +13,4 @@ I love building clean, responsive, and user-friendly interfaces using tools like
 - ⚡ Fun fact: I can spend hours fine-tuning a perfect hover animation ✨
 
 ---
+![Animated banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
