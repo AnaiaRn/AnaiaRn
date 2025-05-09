@@ -8,9 +8,9 @@ I love building clean, responsive, and user-friendly interfaces using tools like
 - 👀 I'm interested in web integration, user-centered design, and continuously improving user experiences.
 - 🌱 Currently learning **ReactJS, Next.js**, **Framer Motion**, and design systems (from Figma to code).
 - 💞️ Open to collaborating on web projects, UI redesigns, or advanced WordPress development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Anaïa_Randrianantenaina) | [Email](anaiarandrianantenaina@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/Anaïa Randrianantenaina) | [Email](anaiarandrianantenaina@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can spend hours fine-tuning a perfect hover animation ✨
 
 ---
-![Animated banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Visitors](https://komarev.com/ghpvc/?username=AnaiaRn&style=flat-square&color=blue)
