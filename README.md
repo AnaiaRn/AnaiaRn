@@ -13,4 +13,4 @@ I love building clean, responsive, and user-friendly interfaces using tools like
 - ⚡ Fun fact: I can spend hours fine-tuning a perfect hover animation ✨
 
 ---
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I’m+AnaiaRn;Frontend+Developer;UI/UX+Designer;WordPress+Enthusiast&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I’m+Anaïa+Randrianantenaina;Frontend+Developer;UI/UX+Designer;WordPress+Enthusiast&center=true&width=500&height=50)
