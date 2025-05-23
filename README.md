@@ -31,12 +31,12 @@
 
 ## 💼 Featured Projects
 
-### 🎨 [Project Name 1](https://github.com/yourusername/project1)
+### 🎨 [IAassist](https://github.com/AnaiaRn/IAassist.git)
 Brief description of the project with technologies used.  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
-### 🖥 [Project Name 2](https://github.com/yourusername/project2)
+### 🖥 [Profile_ko](https://github.com/AnaiaRn/profileko.git)
 Brief description of the project with technologies used.  
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
