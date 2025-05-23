@@ -32,12 +32,13 @@
 ## 💼 Featured Projects
 
 ### 🎨 [IAassist](https://github.com/AnaiaRn/IAassist.git)
-Brief description of the project with technologies used.  
+Thanks to artificial intelligence, IAssist supports project managers by providing tailored strategies, efficient task allocation, 
+and intelligent tracking to maximize the chances of success.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
 ### 🖥 [Profile_ko](https://github.com/AnaiaRn/profileko.git)
-Brief description of the project with technologies used.  
+This is my portfolio, showcasing my projects, skills, and experience in web development. It reflects my background and passion for innovative technologies.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
