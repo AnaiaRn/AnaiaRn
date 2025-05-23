@@ -1,19 +1,61 @@
-### 👋 Hi, I'm Anaïa Randrianantenaina
+# 👋 Hello, I'm Anaïa Randrianantenaina
 
-I'm a passionate **Frontend Developer** with a strong focus on **UI/UX Design** and solid experience in **WordPress development**.  
-I love building clean, responsive, and user-friendly interfaces using tools like **React**, **Tailwind CSS**, or custom WordPress themes and plugins.
+**Frontend Developer | UI/UX Designer | WordPress Specialist**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Anaïa+Randrianantenaina)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:anaiarandrianantenaina@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🚀-Portfolio-black?style=for-the-badge)](https://yourportfolio.com)
 
-- 👀 I'm interested in web integration, user-centered design, and continuously improving user experiences.
-- 🌱 Currently learning **ReactJS, Next.js**, **Framer Motion**, and design systems (from Figma to code).
-- 💞️ Open to collaborating on web projects, UI redesigns, or advanced WordPress development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Anaïa+Randrianantenaina) | [Email](anaiarandrianantenaina@gmail.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can spend hours fine-tuning a perfect hover animation ✨
+![Banner](https://via.placeholder.com/1920x400.png?text=Anaïa+Randrianantenaina+-+Frontend+Developer)
 
----
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I’m+Anaïa+Randrianantenaina;Frontend+Developer;UI/UX+Designer;WordPress+Enthusiast&center=true&width=500&height=50)
+## 🛠 Technical Skills
 
-![Animated banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### WordPress
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
+## 🌱 Currently Learning
+- Advanced React patterns
+- Framer Motion animations
+- Design systems implementation
+- Next.js optimization techniques
+
+## 💼 Featured Projects
+
+### 🎨 [Project Name 1](https://github.com/yourusername/project1)
+Brief description of the project with technologies used.  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+
+### 🖥 [Project Name 2](https://github.com/yourusername/project2)
+Brief description of the project with technologies used.  
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## ✨ Fun Facts
+- Animation enthusiast (could spend hours perfecting micro-interactions)
+- Passionate about inclusive design and accessibility
+- Love turning complex problems into elegant UI solutions
+
+## 📫 Let's Connect!
+I'm always open to interesting collaborations or just chatting about web development!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Anaïa+Randrianantenaina)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:anaiarandrianantenaina@gmail.com)
