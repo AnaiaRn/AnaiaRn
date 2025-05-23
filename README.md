@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Anaïa+Randrianantenaina)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:anaiarandrianantenaina@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🚀-Portfolio-black?style=for-the-badge)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/🚀-Portfolio-black?style=for-the-badge)](https://anaiarandria.vercel.app/)
 
 ![Banner](https://via.placeholder.com/1920x400.png?text=Anaïa+Randrianantenaina+-+Frontend+Developer)
 
@@ -57,5 +57,4 @@ Brief description of the project with technologies used.
 I'm always open to interesting collaborations or just chatting about web development!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Anaïa+Randrianantenaina)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:anaiarandrianantenaina@gmail.com)
