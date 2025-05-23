@@ -33,13 +33,13 @@
 
 ### 🎨 [IAassist](https://github.com/AnaiaRn/IAassist.git)
 Brief description of the project with technologies used.  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
 ### 🖥 [Profile_ko](https://github.com/AnaiaRn/profileko.git)
 Brief description of the project with technologies used.  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
 ## 📈 GitHub Stats
 
