@@ -43,9 +43,9 @@ Brief description of the project with technologies used.
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaiaRn&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaiaRn&layout=compact&theme=radical)
 
 ## ✨ Fun Facts
 - Animation enthusiast (could spend hours perfecting micro-interactions)
