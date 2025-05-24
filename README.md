@@ -58,3 +58,23 @@ I'm always open to interesting collaborations or just chatting about web develop
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Anaïa+Randrianantenaina)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:anaiarandrianantenaina@gmail.com)
+
+
+<!-- Animation section -->
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Thanks+for+visiting!;Let's+build+something+amazing+together;Keep+coding+%3C3;UI+magic+happens+here)
+  
+</div>
+
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/yourusername/count.svg" />
+</p>
+
+<!-- Dancing octocat -->
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="150" />
+</div>
