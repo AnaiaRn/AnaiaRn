@@ -59,8 +59,7 @@ Full-stack e-commerce platform with payment integration (coming soon)
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaiaRn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaiaRn&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaiaRn&layout=compact&theme=radical&hide_border=true)
 
 ## ✨ Fun Facts
